@@ -1,0 +1,25 @@
+Feedback:
+
+1)   Instead of import.util.*, please import the specific class. 
+E.g import java.util.Scanner;
+
+2) Give meaningful name to variables, methodname and classnames
+E.g For variables, instead of giving i,j,x,y you can use "counter" or "count".
+E.g String inputtext = sc.next();
+E.g public void addNumbers(int num1, int num2)
+
+3)  Exercise : 10
+/*10. Write a program for the following condition:
+Given 2 inputs , where input1 is string and input 2 is integer value, the last n characters should repeat n number of times in the output String.
+Input1:            Stackroute
+Input2:            5
+Output1:           Stackrouterouterouterouteroute
+
+Input1:            Stackroute
+Input2:            2
+Output1:           Stackroutetete
+   */
+
+If i give India and 2 it should display Indiaiaia. Presently it displays only Indiaia
+
+4) While submitting, please remove all unwanted lines(E.g System.out.println line) which are commented. Have comments only related to your logic
